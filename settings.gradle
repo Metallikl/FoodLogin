@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "SkeletonProject"
+rootProject.name = "FoodLogin"
 include ':app'
 include ':myfeature'

@@ -1,4 +1,4 @@
-package com.example.skeletonproject
+package br.com.luche.FoodLogin
 
 import org.junit.Test
 

@@ -7,11 +7,11 @@ plugins {
 apply from: '../dependencies.gradle'
 
 android {
-    namespace 'com.example.skeletonproject'
+    namespace 'br.com.luche.FoodLogin'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.skeletonproject"
+        applicationId "br.com.luche.FoodLogin"
         minSdk 24
         targetSdk 33
         versionCode 1
